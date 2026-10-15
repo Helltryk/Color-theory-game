@@ -1,0 +1,2 @@
+droid.glb - user-provided model (uploaded by the project owner).
+Used as the elite enemy in GRAYSCALE.

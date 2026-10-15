@@ -1,0 +1,2 @@
+Robot.glb - user-provided model (uploaded by the project owner).
+Used as the fodder enemy in GRAYSCALE.
